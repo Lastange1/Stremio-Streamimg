@@ -3,8 +3,8 @@ builder.defineStreamHandler(function(args) {
 
     const streams = [
         {
-            title: "Test Video MP4",
-            url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+            title: "Test MP4 Diretto",
+            url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
         }
     ];
 
